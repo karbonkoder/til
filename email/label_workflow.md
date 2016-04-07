@@ -19,11 +19,11 @@ while(any unread email) {
       }
       continue
     } else {
-      label = read later
+      label as read later
     }
   }
 }
 ```
-
+![label workflow diagram](http://code2flow.com/hHt92d.svg)
 Once emails are labeled, depending on your preference to do task or read stuff, pick a bucket.
 TODO
