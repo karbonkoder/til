@@ -24,6 +24,15 @@ while(any unread email) {
   }
 }
 ```
-![label workflow diagram](http://code2flow.com/hHt92d.svg)
+
 Once emails are labeled, depending on your preference to do task or read stuff, pick a bucket.
-TODO
+
+## Action Workflow
+
+```
+for each task email, assign a broad theme to it.
+prioritize themes.
+go in theme priority and complete tasks and label as done.
+repeat untill all tasks are finished or you are out of time.
+```
+
