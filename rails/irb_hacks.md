@@ -14,5 +14,9 @@ def hack
   # TODO Add specific hack here
 end
 
+def toggle
+  irb_context.echo ? irb_context.echo = false : irb_context.echo = true
+end
+
 # TODO add other helper methods
 ```
