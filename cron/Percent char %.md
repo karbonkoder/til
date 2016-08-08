@@ -4,3 +4,4 @@ http://www.ducea.com/2008/11/12/using-the-character-in-crontab-entries/
 
 http://unix.stackexchange.com/questions/29578/how-can-i-execute-date-inside-of-a-cron-tab-job
 
+https://askubuntu.com/questions/23009/reasons-why-crontab-does-not-work/106440#106440
