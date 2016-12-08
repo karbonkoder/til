@@ -55,4 +55,17 @@ strict graph G {
 }
 ```
 
+Also use `->` for directed graphs. e.g.
+```
+digraph graphname {
+a -> b
+}
+```
+
+This can be run like.
+
+```
+dot -Tsvg dag.dot -o dag.svg && chrome dag.svg
+```
+
 To render this within github markdown https://github.com/TLmaK0/gravizo
